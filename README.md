@@ -1,0 +1,2 @@
+# aleatorioLoco
+Código realizado para generar una cantidad de números aleatorios donde el usuario indica la cantidad y el rango. El programa al final muestra todos los números, la cantidad de pares, impares y perfectos. A parte también el promedio general, el promedio de pares y de impares; también el mayor par, impar, menor par e impar; y el mayor y menor numero general indicando si es par, impar o perfecto. 
